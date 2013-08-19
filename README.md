@@ -1,6 +1,6 @@
 
 ##Data Munging 
-(>http://codekata.pragprog.com/2007/01/kata_four_data_.html)
+http://codekata.pragprog.com/2007/01/kata_four_data_.html
 
 Here’s an exercise in three parts to do with real world data. Try hard not to read ahead—do each part in turn.
 
